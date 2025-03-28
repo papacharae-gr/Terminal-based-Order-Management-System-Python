@@ -1,2 +1,17 @@
-# Terminal-based-Order-Management-System-Python
-Created a CLI-based PDA order system where the user selects a table, manages menu items (add/remove), and proceeds to payment. Implemented cash and card payment options, including change calculation for cash payments.
+# Terminal-based Order Management System 
+
+Αυτό το project είναι ένα απλό σύστημα διαχείρισης παραγγελιών, το οποίο εκτελείται μέσω τερματικού. Ο χρήστης μπορεί να ξεκινήσει μια νέα παραγγελία, να προσθέσει ή να αφαιρέσει προϊόντα, να δει το καλάθι του και να ολοκληρώσει την πληρωμή με μετρητά ή κάρτα.
+
+## Χαρακτηριστικά
+- Επιλογή τραπεζιού
+- Μενού προϊόντων με περιγραφές και τιμές
+- Προσθήκη/αφαίρεση προϊόντων από την παραγγελία
+- Υπολογισμός ποσότητας, τιμής και τελικής αξίας
+- Επιλογή πληρωμής με μετρητά ή κάρτα
+- Απόδειξη με ρέστα
+
+## Εκτέλεση
+Απλά τρέξτε το αρχείο:
+
+```bash
+python main.py
